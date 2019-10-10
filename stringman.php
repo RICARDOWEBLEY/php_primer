@@ -62,6 +62,7 @@ echo 'Trim spaces on both sides : '  . "A" . trim("B D C ") . "E" . '<br/>';
 echo 'Trim spaces on the left : '  . "A" . ltrim("B D C ") . "E" . '<br/>';
 echo 'Trim spaces on both sides : '  . "A" . rtrim("B D C ") . "E" . '<br/>';
 
+
 $combine ="in class stand with rock";
 
 echo 'Replace string with another: ' . str_replace("stand", "sit", $combine) .'<br/>';
