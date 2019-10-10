@@ -14,7 +14,7 @@
 <body>
 
 <div class="container">
-<div class="jumbotron bg-secondary text-primary"><?php $name = "Ricardo Webley";  echo '<h1><center>Learn PHP  ' .$if_stmt. ' </center></h1>'; ?></div>
+<div class="jumbotron bg-secondary text-primary"><?php $name = "Ricardo Webley";  echo '<h1><center>Learn PHP  ' .$date. ' </center></h1>'; ?></div>
 
 <?php echo '<h1 class="text-primary">' .$date. ' </h1>'; ?>
 
