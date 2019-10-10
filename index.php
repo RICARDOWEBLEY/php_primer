@@ -5,13 +5,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Learn PHP </title>
+    <title>Learn PHP | Home</title>
     
 </head>
 <body class="bg-light">
 
 <div class="container ">
-<div class="jumbotron bg-secondary text-primary"><?php $name = "Ricardo Webley";  echo '<h1><center>Learn PHP with ' .$name. ' <button class="btn btn-dark" href="array.php" ><a target="_blanck">Learn More</a></button></center></h1>'; ?></div>
+<div class="jumbotron bg-secondary text-primary"><?php $name = "Ricardo Webley";  echo '<h1><center>Learn PHP with ' .$name. ' <button class="btn btn-dark" href="array.php" ><a target="_blank">Learn More</a></button></center></h1>'; ?>
+<a href="http://microsoft.com" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Microsoft</a>
+</div> 
 <ul>
 <li></li>
 </ul>
