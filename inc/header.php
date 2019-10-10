@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     
 </head>
-<nav class="navbar navbar-expand-lg ">
+<nav class="navbar navbar-expand-lg  bg-primary">
   <a class="navbar-brand text-primary" href="index.php"><?php $title ="Learn PHP with Ricardo"; echo $title;?></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
